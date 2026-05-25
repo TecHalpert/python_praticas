@@ -16,3 +16,4 @@ cores= {'limitador': '\033[m',
 nome = "Jonatas"
 #print(f"{cores['azul inverso']}{nome}{cores['limitador']}")
 
+#teste
